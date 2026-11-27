@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/api/client.ts","./src/contexts/SessionContext.tsx","./src/layouts/Sidebar.tsx","./src/layouts/TopBar.tsx","./src/pages/JourneyHistoryPage.tsx","./src/pages/LiveMapPage.tsx","./src/pages/LogsPage.tsx","./src/pages/ShipmentDetailPage.tsx","./src/pages/ShipmentsPage.tsx","./src/utils/qrParser.ts"],"version":"5.9.3"}
